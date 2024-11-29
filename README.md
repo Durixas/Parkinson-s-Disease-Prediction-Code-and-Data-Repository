@@ -15,9 +15,13 @@ This repository contains the code and supplementary data for **"Optimizing Parki
    - Covers model training and evaluation using 12 machine learning algorithms.
 
 ### Data
-- **Model Evaluation Tables**:
-  - Stored in the `evaluation_tables` directory in `.csv` format.
-  - Each file corresponds to a specific aggregation strategy and includes evaluation metrics such as Accuracy, Precision, Sensitivity, Specificity, F1 Score, AUC, and MCC.
+1. **Original Dataset**:
+   - The dataset used in this study is obtained from the UCI Machine Learning Repository: [Parkinson's Disease Classification Dataset](https://archive.ics.uci.edu/dataset/470/parkinson+s+disease+classification).
+   - Stored in the `data/original` directory.
+
+2. **Model Evaluation Tables**:
+   - Stored in the `data/evaluation_tables` directory in `.csv` format.
+   - Each file corresponds to a specific aggregation strategy and includes evaluation metrics such as Accuracy, Precision, Sensitivity, Specificity, F1 Score, AUC, and MCC.
 
 ### Figures
 - Performance comparison figures from the paper are included in the `figures` directory for easy reference.
