@@ -2,13 +2,15 @@
 
 This repository contains the code and supplementary data for:
 
-**Optimizing Parkinson's Disease Prediction: A Comparative Analysis of Data Aggregation Methods Using Multiple Voice Recordings and an Artificial Intelligence Pipeline**
+**Optimizing Parkinson's Disease Prediction: A Comparative Analysis of Data Aggregation Methods Using Multiple Voice Recordings via an Automated Artificial Intelligence Pipeline**
 
 
-**Zhengxiao Yang<sup>1,†</sup>, Hao Zhou<sup>1,†</sup>, Sudesh Srivastav<sup>1</sup>, Jeffrey Shaffer<sup>1</sup>, Samuel Kakraba<sup>1,2</sup>**
+**Zhengxiao Yang<sup>1,†</sup>, Hao Zhou<sup>1,†</sup>, Sudesh Srivastav<sup>1</sup>, Jeffrey G. Shaffer<sup>1</sup>, Kuukua E. Abraham<sup>2</sup>, Samuel M. Naandam<sup>3</sup>, Samuel Kakraba<sup>1,4</sup>**
 
 1 Department of Biostatistics and Data Science, Tulane Celia Scott Weatherhead School of Public Health and Tropical Medicine, Tulane University, New Orleans, LA 70112, USA  
-2 Tulane Center for Aging, School of Medicine, Tulane University, New Orleans, LA 70112, USA  
+2 Minnesota State University, Mankato, MN 60001, USA  
+3 Department of Mathematics, University of Cape Coast, Ghana  
+4 Tulane Center for Aging, School of Medicine, Tulane University, New Orleans, LA 70112, USA  
 † These authors contributed equally to this work.  
 • Correspondence: [skakraba@tulane.edu](mailto:skakraba@tulane.edu) (S.K) 
 
