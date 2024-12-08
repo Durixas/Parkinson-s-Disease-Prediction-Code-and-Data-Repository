@@ -14,6 +14,8 @@ This repository contains the code and supplementary data for:
 † These authors contributed equally to this work.  
 • Correspondence: [skakraba@tulane.edu](mailto:skakraba@tulane.edu) (S.K) 
 
+Preprint: [DOI:10.20944/preprints202412.0366.v1](https://doi.org/10.20944/preprints202412.0366.v1)
+
 ## Contents
 
 ### Jupyter Notebooks
