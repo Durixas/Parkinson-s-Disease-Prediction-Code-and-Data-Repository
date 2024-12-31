@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Parkinson-s-Disease-Prediction-Code-and-Data-Repository
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hao
+    family-names: Zhou
+  - given-names: Zhengxiao
+    family-names: Yang
+  - given-names: Samuel
+    family-names: Kakraba
+identifiers:
+  - type: doi
+    value: 10.20944/preprints202412.0366.v1
+repository-code: >-
+  https://github.com/Durixas/Parkinson-s-Disease-Prediction-Code-and-Data-Repository
+abstract: >-
+  Patient-level grouped data are prevalent in public health
+  and medical fields, and multiple instance learning (MIL)
+  offers a framework to address the challenges associated
+  with this type of data structure. This study compares four
+  data aggregation methods designed to tackle the grouped
+  structure in classification tasks: post-mean, post-max,
+  post-min, and pre-mean aggregation. We developed a
+  customized AI pipeline that incorporates twelve machine
+  learning algorithms along with the four aggregation
+  methods to detect Par-kinson’s disease (PD) using multiple
+  voice recordings from individuals available in the UCI
+  Machine Learning Repository, which includes 756 voice
+  recordings from 188 PD patients and 64 healthy
+  individuals. Seven performance metrics—accuracy,
+  precision, sensitivity, specificity, F1 score, AUC, and
+  MCC—were utilized for model evaluation. Various
+  techniques, such as Bag Over-Sampling (BOS),
+  cross-validation, and grid search, were implemented to
+  enhance classification performance. Among the four
+  aggregation methods, post-mean aggregation combined with
+  XGBoost achieved the highest accuracy (0.880), F1 score
+  (0.922), and MCC (0.672). Furthermore, we identified
+  potential trends in selecting aggregation methods that are
+  suitable for imbalanced data, particularly based on their
+  differences in sensitivity and specificity. These findings
+  provide meaningful implications for the further
+  exploration of grouped imbalanced data.
+keywords:
+  - multiple instance learning (MIL)
+  - machine learning
+  - Parkinson’s disease
+  - artificial intelligence
+license: MIT
